@@ -1,0 +1,9 @@
+Main:
+User has a profile
+Profile syncs with other profiles (friends)
+Add ho much you are in debt to someone or someone in dept to you (+-balance)
+both profiles have to accept the terms when updating debt ammount
+Add note why debt is changing
+Extra:
+Timeline that shows when and why ammount was changed
+Show net balance accross all synced profiles
